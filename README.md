@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Shivam👋
+I'm a 19-year-old developer based in India, and I'm passionate about crafting digital experiences.
 
 <!--
 **Shivamgpt812/Shivamgpt812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
