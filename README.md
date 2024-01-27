@@ -1,6 +1,6 @@
 ### Hey, I'm Shivam 👋🏽  
 
-I'm a 19-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
+I'm a 19-year-old developer & Programmer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website]( https://shivamgpt812.github.io/My-Portfolio/) to learn more about me.
 - Explore my [blog]() where I share insights and learnings.
@@ -8,6 +8,7 @@ I'm a 19-year-old developer based in Germany, and I'm passionate about crafting 
 - In my [Newsletter](), I share my learnings and tips to become a better fullstack developer.
 
 ## 📦 Toolbox
+**Computer Languages:** `Java` `Python` `HTML` `CSS`
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
  
