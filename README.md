@@ -1,6 +1,6 @@
 ### Hey, I'm Shivam 👋🏽  
 
-I'm a 19-year-old developer & Programmer based in India, and I'm passionate about crafting digital experiences. 
+I'm a 19-year-old Developer & Programmer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website]( https://shivamgpt812.github.io/My-Portfolio/) to learn more about me.
 - Explore my [blog]() where I share insights and learnings.
