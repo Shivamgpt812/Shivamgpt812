@@ -2,7 +2,7 @@
 
 I'm a 19-year-old Developer & Programmer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website]( https://shivamgpt812.github.io/My-Portfolio/) to learn more about me.
+- Check out my [website](https://main--verdant-strudel-fa46fb.netlify.app/) to learn more about me.
 - Explore my [blog]() where I share insights and learnings.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/ig_shivam_ig/) and [LinkedIn](https://www.linkedin.com/in/shivam-gupta-637b94288/).
 - In my [Newsletter](), I share my learnings and tips to become a better fullstack developer.
