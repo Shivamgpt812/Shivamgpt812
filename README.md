@@ -7,7 +7,7 @@ I'm a 19-year-old Developer & Programmer based in India, and I'm passionate abou
 - Stay updated with my journey on [Instagram](https://www.instagram.com/ig_shivam_ig/) and [LinkedIn](https://www.linkedin.com/in/shivam-gupta-637b94288/).
   
 ## 📦 Toolbox
-**Computer Languages:** `Java` `Python` `HTML` `CSS`
+**Computer Languages:** `C` `Java` `Python` `HTML` `CSS`
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` 
  
