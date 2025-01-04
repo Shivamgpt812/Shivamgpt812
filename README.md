@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Shivam, a Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://main--verdant-strudel-fa46fb.netlify.app/)<br>👨🏼‍🎓 studying computer science at Manav Rachna University <br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <iVali CodeLab</i>
+🛜 currently working on my own [webpage](https://main--verdant-strudel-fa46fb.netlify.app/)<br>👨🏼‍🎓 studying computer science at Manav Rachna University <br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>Vali CodeLab</i>
 
 
 # 💻 Tech Stack:
